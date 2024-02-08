@@ -108,4 +108,4 @@ This guide outlines the post-install configuration of the open-source help desk 
   </li>
 </ul><!--End of main list-->
 
-<h2>this should conclude the end of set up proccess for osTicket.</h2>
+<h2>this should conclude the end of set up process for osTicket.</h2>
